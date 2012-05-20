@@ -1,5 +1,5 @@
 ---
-title: tralalalalalaalalal 
+title: tralalalalalala
 ---
 
 # Lever 1
@@ -10,6 +10,4 @@ This is a paragraph just before a list
 * List 1
 * List 2
 * list 3
-
-    this is a bunch of code
 
